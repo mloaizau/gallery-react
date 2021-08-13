@@ -1,5 +1,5 @@
 import './App.css';
-import { BrowserRouter, Route, Link } from 'react-router-dom';
+import { BrowserRouter, Route } from 'react-router-dom';
 import Assassins from './components/Assassins';
 import Bayonetta from './components/Bayonetta';
 import Halo from './components/Halo';
@@ -11,6 +11,11 @@ import Zelda from './components/Link';
 function App() {
   return (
     <BrowserRouter>
+
+      <div className="container">
+        <h1 className="text-center mt-3 mb-3 text-white">Galería</h1>
+      </div>
+
       <Route path="/Assassins" component={Assassins} />
       <Route path="/Bayonetta" component={Bayonetta} />
       <Route path="/Halo" component={Halo} />
