@@ -1,12 +1,12 @@
 import React from 'react'
 import zelda from '../images/link.jpg'
 
-const Link = () => {
+const Zelda = () => {
     return (
-        <div>
-            <img src={zelda} />
+        <div className="container">
+            <img src={zelda} className="imagen"/>
         </div>
     )
 }
 
-export default Link
+export default Zelda

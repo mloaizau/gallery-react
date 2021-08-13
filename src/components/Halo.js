@@ -3,8 +3,8 @@ import Halo2 from '../images/halo.jpg'
 
 const Halo = () => {
     return (
-        <div>
-            <img src={Halo2} />
+        <div className="container">
+            <img src={Halo2} className="imagen"/>
         </div>
     )
 }

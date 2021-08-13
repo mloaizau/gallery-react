@@ -10,40 +10,40 @@ import zelda2 from '../images/link.jpg'
 
 const Navigation = () => {
     return (
-        <div>
-            <Link to="/Assassins">
+        <div className="container mt-3 padre">
+            <Link to="/Assassins" className="links">
                 <figure>
-                    <img src={creed2} />
+                    <img src={creed2} className="size-img" />
                     <figcaption>Assassin's Creed</figcaption>
                 </figure>
             </Link>
-            <Link to="/Bayonetta">
+            <Link to="/Bayonetta" className="links">
                 <figure>
-                    <img src={bnt2} />
+                    <img src={bnt2} className="size-img"/>
                     <figcaption>Bayonetta</figcaption>
                 </figure>
             </Link>
-            <Link to="/Halo">
+            <Link to="/Halo" className="links">
                 <figure>
-                    <img src={halo3} />
+                    <img src={halo3} className="size-img"/>
                     <figcaption>Halo</figcaption>
                 </figure>
             </Link>
-            <Link to="/Kratos">
+            <Link to="/Kratos" className="links">
                 <figure>
-                    <img src={god2} />
+                    <img src={god2} className="size-img"/>
                     <figcaption>God of War</figcaption>
                 </figure>
             </Link>
-            <Link to="Lara">
+            <Link to="Lara" className="links">
                 <figure>
-                    <img src={croft2} />
+                    <img src={croft2} className="size-img"/>
                     <figcaption>Tomb Raider</figcaption>
                 </figure>
             </Link>
-            <Link to="/Link">
+            <Link to="/Link" className="links">
                 <figure>
-                    <img src={zelda2} />
+                    <img src={zelda2} className="size-img" />
                     <figcaption>The Legend of Zelda</figcaption>
                 </figure>
             </Link>

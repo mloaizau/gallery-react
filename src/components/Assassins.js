@@ -3,8 +3,8 @@ import creed from '../images/assassin.jpg'
 
 export const Assassins = () => {
     return (
-        <div>
-            <img src={creed} />
+        <div className="container">
+            <img src={creed} className="imagen"/>
         </div>
     )
 }

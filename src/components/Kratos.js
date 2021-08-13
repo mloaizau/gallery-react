@@ -3,8 +3,8 @@ import god from '../images/kratos.jpg'
 
 const Kratos = () => {
     return (
-        <div>
-            <img src={god} />
+        <div className="container">
+            <img src={god} className="imagen"/>
         </div>
     )
 }

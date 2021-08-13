@@ -3,8 +3,8 @@ import bnt from '../images/bayonetta.jpg'
 
 const Bayonetta = () => {
     return (
-        <div>
-            <img src={bnt} />
+        <div className="container">
+            <img src={bnt} className="imagen"/>
         </div>
     )
 }

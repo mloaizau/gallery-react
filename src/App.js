@@ -6,6 +6,7 @@ import Halo from './components/Halo';
 import Kratos from './components/Kratos';
 import Lara from './components/Lara';
 import Navigation from './components/Navigation';
+import Zelda from './components/Link';
 
 function App() {
   return (
@@ -15,7 +16,7 @@ function App() {
       <Route path="/Halo" component={Halo} />
       <Route path="/Kratos" component={Kratos} />
       <Route path="/Lara" component={Lara} />
-      <Route path="/Link" component={Link} />
+      <Route path="/Link" component={Zelda} />
 
       <Navigation/>
 

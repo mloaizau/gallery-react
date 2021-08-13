@@ -3,8 +3,8 @@ import croft from '../images/lara.jpg'
 
 const Lara = () => {
     return (
-        <div>
-            <img src={croft} />
+        <div className="container">
+            <img src={croft} className="imagen"/>
         </div>
     )
 }
