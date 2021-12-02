@@ -1,6 +1,6 @@
 # Galería de Juegos
 
-Galería de juegos 
+Galería de juegos de acción y aventura.
 ## Desktop
 
 <img width="600px"  src="./public/muestra_1.PNG" />
