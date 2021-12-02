@@ -3,11 +3,11 @@
 Galería de juegos 
 ## Desktop
 
-<img width="400px"  src="./public/muestra_1.PNG" />
+<img width="600px"  src="./public/muestra_1.PNG" />
 
-<img width="400px"  src="./public/muestra_2.PNG" />
+<img width="600px"  src="./public/muestra_2.PNG" />
 
-<img width="400px"  src="./public/muestra_3.PNG" />
+<img width="600px"  src="./public/muestra_3.png" />
 
 
 ## Créditos
