@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/gallery-react/static/css/main.fa03ade8.chunk.css",
+    "main.js": "/gallery-react/static/js/main.770de08c.chunk.js",
+    "main.js.map": "/gallery-react/static/js/main.770de08c.chunk.js.map",
+    "runtime-main.js": "/gallery-react/static/js/runtime-main.64c10090.js",
+    "runtime-main.js.map": "/gallery-react/static/js/runtime-main.64c10090.js.map",
+    "static/js/2.5934766b.chunk.js": "/gallery-react/static/js/2.5934766b.chunk.js",
+    "static/js/2.5934766b.chunk.js.map": "/gallery-react/static/js/2.5934766b.chunk.js.map",
+    "index.html": "/gallery-react/index.html",
+    "static/css/main.fa03ade8.chunk.css.map": "/gallery-react/static/css/main.fa03ade8.chunk.css.map",
+    "static/js/2.5934766b.chunk.js.LICENSE.txt": "/gallery-react/static/js/2.5934766b.chunk.js.LICENSE.txt",
+    "static/media/assassin.dd38a04e.jpg": "/gallery-react/static/media/assassin.dd38a04e.jpg",
+    "static/media/bayonetta.b60aab6b.jpg": "/gallery-react/static/media/bayonetta.b60aab6b.jpg",
+    "static/media/halo.900286ee.jpg": "/gallery-react/static/media/halo.900286ee.jpg",
+    "static/media/kratos.c38d8660.jpg": "/gallery-react/static/media/kratos.c38d8660.jpg",
+    "static/media/lara.a6d7a60d.jpg": "/gallery-react/static/media/lara.a6d7a60d.jpg",
+    "static/media/link.1bef17c6.jpg": "/gallery-react/static/media/link.1bef17c6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64c10090.js",
+    "static/js/2.5934766b.chunk.js",
+    "static/css/main.fa03ade8.chunk.css",
+    "static/js/main.770de08c.chunk.js"
+  ]
+}
